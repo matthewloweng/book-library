@@ -26,8 +26,15 @@
 </div>
 <div>
     <label>Cover</label>
-    <input type="file" name="cover">
+    <input type="file" name="cover" class="filepond">
 </div>
+<!-- <script>
+    FilePond.registerPlugin(FilePondPluginImagePreview);
+    FilePond.registerPlugin(FilePondPluginImageResize);
+    FilePond.registerPlugin(FilePondPluginFileEncode);
+    const inputElement = document.querySelector('input[type="file"]');
+    const pond = FilePond.create(inputElement);
+</script> -->
 <div>
     <label>Description</label>
     <textarea name="description"><%= book.description %></textarea>
