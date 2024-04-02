@@ -1,10 +1,28 @@
 # Book Library
 
-A web-based application for managing a personal library of books. This project allows users to add, edit, and delete books and authors from their collection. It's built with Node.js, Express, and MongoDB.
+This repository contains the code for a book library management system, an application designed to help manage and catalogue books. The system allows users to add, update, remove, and search for books and authors.
 
-## Description
+## Features
 
-The Book Library app provides a user-friendly interface to catalog your book collection, complete with details like titles, authors, publish dates, and cover images. It includes search functionality to quickly find books and authors in your collection.
+- File Upload for book covers
+- Add new books and authors to the library
+- Edit details of existing books and authors
+- Delete books and authors from the library
+- Search for books and authors
+- Responsive web design for desktop and mobile use
+
+## Technologies
+
+- Node.js
+- Express.js
+- MongoDB
+- EJS for server-side rendering
+- CSS for styling
+- JavaScript for client-side script
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ## Installation
 
