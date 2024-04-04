@@ -1,3 +1,7 @@
+# Access a live demo here:
+
+https://book-library-mloweng-556b848566a9.herokuapp.com/
+
 # Book Library
 
 This repository contains the code for a book library management system, an application designed to help manage and catalogue books. The system allows users to add, update, remove, and search for books and authors.
@@ -49,10 +53,6 @@ To add a book or an author, use the 'Add Book' or 'Add Author' links, respective
 ## Contributing
 
 If you'd like to contribute to this project, please fork the repository and make a pull request with your proposed changes. Please ensure your code adheres to the existing style and includes any necessary tests.
-
-## Credits
-
-This project was created by Matthew Löweng as part of a learning exercise in building web applications with Node.js and Express.
 
 ## License
 
